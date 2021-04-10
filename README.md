@@ -2,7 +2,7 @@
 
 ### 💻 Web Developer ☁
 
-- 🔎 I'm currently learning React.
+- 🔎 I'm currently learning React and Flutter.
 - 📘 I'm currently learning more about web dev. 
 - 💭 Ask me about to be a web dev.
 - 🎮 I love videogames.
